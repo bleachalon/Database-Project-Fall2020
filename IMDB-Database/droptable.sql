@@ -1,0 +1,13 @@
+drop table if exists title_genre;
+drop table if exists genre;
+drop table if exists name_profession;
+drop table if exists profession;
+drop table if exists rating;
+drop table if exists episode;
+drop table if exists name_title;
+drop table if exists namebasic;
+drop table if exists title;
+drop table if exists titletype;
+drop view actors;
+drop procedure addActor;
+drop procedure deleteActor;
